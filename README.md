@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-# koreano3 깃허브입니다.
+# koreano3 Github
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -28,9 +28,4 @@ Here are some ideas to get you started:
 </a>
 -->
 
-
-<div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoreano3%2Fhit-counter&count_bg=%23258FD5&title_bg=%23232AE1&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
 
